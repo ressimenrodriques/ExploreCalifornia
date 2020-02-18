@@ -198,7 +198,7 @@ span.accent {
 }
 #secondaryContent {
   float: left;
-  margin-top: 150px;
+  margin-top: $175px;
   width: 440px;
   padding-left: 25px;
 }
@@ -674,7 +674,7 @@ span.accent {
 }
 #mainContent textarea {
   width: 500px;
-  height: 150px;
+  height: $175px;
 }
 #mainContent form label{
   width: 80px;
